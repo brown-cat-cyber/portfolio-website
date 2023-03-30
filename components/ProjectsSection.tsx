@@ -53,8 +53,8 @@ const ProjectsSection = () => {
                     y: 0,
                   },
                 }}
-                viewport={{ once: true, amount: 0.5 }}
-                transition={{ delay: 0.2, duration: 1 }}
+                viewport={{ once: true, amount: 0.3 }}
+                transition={{ delay: 0.2, duration: 0.7 }}
                 className="flex flex-col md:flex-row md:gap-x-12"
               >
                 {/**IMG */}

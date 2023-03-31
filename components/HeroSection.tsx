@@ -35,6 +35,7 @@ const HeroSection = (props: Props) => {
           </p>
           <Link
             to="projects"
+            smooth={true}
             className="cursor-pointer text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
           >
             Projects

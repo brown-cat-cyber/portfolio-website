@@ -19,7 +19,7 @@ const projects = [
     description:
       "这是一个健身主题的仿制网站，主要用到了tailwind，typescript和React",
     image: "/gym.png",
-    github: "https://github.com/hqasmei/platoio",
+    github: "https://github.com/brown-cat-cyber/Gym-website",
     link: "https://468cfb4d.gym-website-de2.pages.dev/",
   },
 ]

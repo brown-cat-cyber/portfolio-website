@@ -22,6 +22,14 @@ const projects = [
     github: "https://github.com/brown-cat-cyber/Gym-website",
     link: "https://468cfb4d.gym-website-de2.pages.dev/",
   },
+  {
+    name: "Gym Website",
+    description:
+      "这是一个财务主题仪表盘，由对kpi、支出收入等数据的图表组成。由于render.com每隔15分钟不活跃就自动休眠，所以第一次获取数据会比较慢",
+    image: "/finance.png",
+    github: "https://github.com/brown-cat-cyber/mern-finance",
+    link: "https://mern-finance-frontend2.onrender.com/",
+  },
 ]
 const ProjectsSection = () => {
   return (
